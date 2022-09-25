@@ -1,5 +1,5 @@
 # rd-test-interview
-<h2 align=centre> RD Technology - Witten Test Question 1 </h2>
+<h2 align=centre> RD Technology - Written Test Question 1 </h2>
 <hr></hr>
 <body>
   <p align=left>
