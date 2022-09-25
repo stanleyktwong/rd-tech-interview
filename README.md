@@ -1,2 +1,2 @@
-# rd-tech-interview
+# rd-test-accldr
 Interview witten test
