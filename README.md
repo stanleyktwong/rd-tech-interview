@@ -10,7 +10,7 @@
   </p>
   <p align=left>
     &emsp;Usage : <br>
-    &emsp;&emsp; 1. Keep runnable java file Rd-Test-AccLdr.jar and AccRecord.txt in same directory.<br>
+    &emsp;&emsp; 1. Download and keep runnable java file Rd-Test-AccLdr.jar and AccRecord.txt in same directory.<br>
     &emsp;&emsp; 2. Run command "java -jar Rd-Test-AccLdr.jar".</br>
     &emsp;&emsp; 3. The console displays all customer account table.<br>
   </p>
